@@ -1,2 +1,2 @@
 # hello-world
-First time user
+First time use wit following the hello world tutorial
